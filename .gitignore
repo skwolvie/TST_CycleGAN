@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+*/venv/*
+venv/
+venv/*
+.idea/*
+*/.idea/*
+
+
+
