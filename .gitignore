@@ -2,10 +2,17 @@
 */venv/*
 venv/
 venv/*
-.idea/*
+
 */.idea/*
+.idea/
+.idea/*
+
 */.ipynb_checkpoints/*
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+
 */.DS_Store
+.DS_Store
 
 
 
